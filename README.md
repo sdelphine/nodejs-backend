@@ -8,7 +8,7 @@ npm install
 # Run
 ng serve
 
-## Backend Part
+# Backend Part
 # Install
 git clone https://github.com/sdelphine/nodejs-backend.git
 npm install
